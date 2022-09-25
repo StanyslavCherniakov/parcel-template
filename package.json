@@ -1,0 +1,24 @@
+{
+  "name": "parcel-template",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanyslavCherniakov/parcel-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanyslavCherniakov/parcel-template/issues"
+  },
+  "homepage": "https://github.com/StanyslavCherniakov/parcel-template#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
